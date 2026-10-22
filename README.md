@@ -1,39 +1,55 @@
 # Hey, I'm Surya Dev 👋
 
-### 🎨 UI/UX Designer | 💻 Web Developer | 🎮 Gaming With Surya Creator
+### Design with purpose. Build with curiosity. Create with passion.
 
-I'm a CSE (AI & ML) student passionate about designing intuitive digital experiences, building websites, and creating engaging online communities.
+🎨 **UI/UX Design Learner** · 💻 **Web Development** · 🎮 **Gaming Creator**
 
-I combine creativity, design thinking, and technology to turn ideas into useful digital products.
+I'm a CSE (AI & ML) student exploring how design and technology come together to create useful digital experiences. I learn by building projects, experimenting with ideas, and improving step by step.
 
-## 🚀 What I'm Working On
-
-- 🎨 UI/UX design and interactive prototypes using Figma
-- 💻 Building websites with HTML, CSS, and JavaScript
-- 🤖 Exploring AI tools for design and development
-- 🎮 Creating content for Gaming With Surya
-
-## 🛠️ Skills & Tools
-
-- **Design:** UI/UX fundamentals, wireframing, prototyping, Figma
-- **Web:** HTML, CSS, JavaScript basics
-- **Programming:** Python basics, Java basics, SQL
-- **Tools:** Git, GitHub, AI-assisted workflows
-
-## 🌟 Featured Projects
-
-- **Trendy Collections** — Saree shopping website and UI/UX project
-- **GWS Connect** — Community-focused UI/UX project
-- **ECOMMERCE** — E-commerce project
-- **FEDF** — Frontend development project
-
-## 🤝 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/suryadevofficial)
-- 🎮 [YouTube — Gaming With Surya](https://www.youtube.com/@GAMINGWITHSURYAGWS)
-- 📸 [Instagram](https://www.instagram.com/gaming_with__surya/)
-- 💻 [GitHub](https://github.com/SURYA088525)
+Outside tech, I create content through **Gaming With Surya** — my gaming brand built around entertainment and community.
 
 ---
 
-*Learning by building. Designing with purpose. Creating with passion.* 🚀
+## 🎨 Featured UI/UX Projects
+
+### 01 · Trendy Collections 🛍️
+
+A beginner UI/UX concept inspired by my family's saree business. Created in Figma to explore the basics of e-commerce design and shopping experiences.
+
+**[GitHub Repository ↗](https://github.com/SURYA088525/Trendy-collections-uiux)** · **[Figma Design ↗](https://www.figma.com/design/cyGsziWfzsaqN0qDwO256a/Proj-2---Trendy-Collections?node-id=0-1&t=0fAICFAoRjPG5TmM-1)**
+
+### 02 · GWS Connect 🎮
+
+A beginner concept for a Free Fire gaming community platform, exploring screens for live streams, tournaments, guild members, announcements, giveaways, and creator profiles.
+
+**[GitHub Repository ↗](https://github.com/SURYA088525/GWS-Connect-UI-UX)** · **[Figma Design ↗](https://www.figma.com/design/RWP3I8qsNtlS4SCjluP3yU/Proj-1---GWS-Connect-%E2%80%93-Free-Fire-Community-Platform?t=0fAICFAoRjPG5TmM-1)**
+
+---
+
+## 🧰 What I'm Learning
+
+- **UI/UX:** Figma, wireframing, interface design, clickable prototypes
+- **Web:** HTML, CSS, JavaScript fundamentals
+- **Programming:** Python, Java, SQL — fundamentals
+- **Tools:** Git, GitHub, AI-assisted workflows
+
+---
+
+## 🎮 Beyond Tech — Gaming With Surya
+
+I'm the creator of **Gaming With Surya**, where I bring together gaming, content creation, and community building.
+
+**[▶ Visit my YouTube Channel](https://www.youtube.com/@GAMINGWITHSURYAGWS)**
+
+---
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [Surya Dev](https://www.linkedin.com/in/suryadevofficial)
+- **Instagram:** [@gaming_with__surya](https://www.instagram.com/gaming_with__surya/)
+- **YouTube:** [Gaming With Surya](https://www.youtube.com/@GAMINGWITHSURYAGWS)
+- **GitHub:** [SURYA088525](https://github.com/SURYA088525)
+
+---
+
+*Learning by building. Growing through design. Creating beyond the screen.* 🚀
