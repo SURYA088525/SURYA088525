@@ -30,7 +30,7 @@ I combine creativity, design thinking, and technology to turn ideas into useful 
 ## 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/suryadevofficial)
-- 🎮 [YouTube — Gaming With Surya](https://www.youtube.com/@GAMING_WITH_SURYA)
+- 🎮 [YouTube — Gaming With Surya](https://www.youtube.com/@GAMINGWITHSURYAGWS)
 - 📸 [Instagram](https://www.instagram.com/gaming_with__surya/)
 - 💻 [GitHub](https://github.com/SURYA088525)
 
