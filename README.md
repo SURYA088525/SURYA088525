@@ -22,7 +22,19 @@ A beginner UI/UX concept inspired by my family's saree business. Created in Figm
 
 A beginner concept for a Free Fire gaming community platform, exploring screens for live streams, tournaments, guild members, announcements, giveaways, and creator profiles.
 
-**[GitHub Repository ↗](https://github.com/SURYA088525/GWS-Connect-UI-UX)** · **[Figma Design ↗](https://www.figma.com/design/RWP3I8qsNtlS4SCjluP3yU/Proj-1---GWS-Connect-%E2%80%93-Free-Fire-Community-Platform?t=0fAICFAoRjPG5TmM-1)**
+**[GitHub Repository ↗](https://github.com/SURYA088525/GWS-Connect-UI-UX)** · **[Figma Design ↗](https://www.figma.com/design/RWP3I8qsNtlS4SCjluP3yU/Proj-1---GWS-Connect-%E2%80%93-Free-Fire-Community-Platform?t=0fAICFAoRjPG5TmM-1)** 
+
+## 💻 Featured Frontend Project
+
+### 03 · Sri Baba Saree Collection 🌸
+
+A responsive boutique website built for my family's saree business, designed to showcase the collection and help customers connect with the store.
+
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Features:** Home, Sarees, Jewellery, About Us, Contact, and WhatsApp enquiry links
+- **Deployment:** GitHub Pages
+
+🔗 [Live Website](https://surya088525.github.io/sri-baba-saree-collection/) · [GitHub Repository](https://github.com/SURYA088525/sri-baba-saree-collection)
 
 ---
 
